@@ -1,0 +1,18 @@
+{
+  "owner": "seiya058904",
+  "name": "Pixelorama-Skills",
+  "visibility": "public",
+  "description": "Portable Agent Skills for AI-assisted pixel art in Pixelorama: setup, draw, inspect, refine, and export through MCP.",
+  "homepage": "https://github.com/seiya058904/Pixelorama-Skills#quick-start",
+  "topics": [
+    "pixelorama",
+    "agent-skills",
+    "mcp",
+    "pixel-art",
+    "sprites",
+    "animation",
+    "codex",
+    "claude-code",
+    "game-assets"
+  ]
+}

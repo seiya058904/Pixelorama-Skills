@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Pixelorama Skills</title><desc id="desc">Decorative pixel-art editor illustration. Describe, draw, refine. Portable workflows for AI-assisted pixel art.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111628"/><stop offset="1" stop-color="#202c41"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#a2b4e9" stroke-opacity=".055"/></pattern></defs>
+<rect width="1280" height="440" rx="22" fill="url(#bg)"/><rect width="1280" height="440" rx="22" fill="url(#grid)"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="66" y="70" fill="#9ab8c7" font-size="13" letter-spacing="3">OPEN WORKFLOWS / PIXEL ART</text><text x="62" y="160" fill="#edf3f9" font-size="67" font-weight="700" letter-spacing="-2">Pixelorama</text><text x="62" y="234" fill="#8ae0c5" font-size="67" font-weight="700" letter-spacing="-2">Skills</text><text x="66" y="286" fill="#d4dfed" font-size="24">Describe. Draw. Refine.</text><text x="66" y="320" fill="#95a8be" font-size="17">One skill. Your agent. An editable canvas.</text>
+<g font-size="12" fill="#c8d7e5" letter-spacing="1"><rect x="66" y="357" width="125" height="30" rx="15" fill="#2c3a50"/><text x="85" y="377">AGENT SKILLS</text><rect x="203" y="357" width="72" height="30" rx="15" fill="#2c3a50"/><text x="224" y="377">MCP</text><rect x="287" y="357" width="88" height="30" rx="15" fill="#2c3a50"/><text x="308" y="377">.PXO</text></g></g>
+<g transform="translate(635,52)"><rect width="578" height="336" rx="15" fill="#0e1525" stroke="#45506c"/><path d="M15 0H563Q578 0 578 15V43H0V15Q0 0 15 0Z" fill="#2c3950"/><circle cx="23" cy="22" r="4" fill="#89a1b7"/><circle cx="39" cy="22" r="4" fill="#89a1b7"/><circle cx="55" cy="22" r="4" fill="#89a1b7"/><text x="80" y="27" fill="#b2c3d5" font-family="Arial,sans-serif" font-size="12">YOUR PIXEL WORKSPACE</text>
+<rect x="20" y="62" width="388" height="252" rx="4" fill="#182039"/><rect x="426" y="62" width="132" height="252" rx="4" fill="#172234"/>
+<g shape-rendering="crispEdges" transform="translate(24,66)">
+<rect x="20" y="24" width="4" height="4" fill="#a2c9e2"/>
+<rect x="75" y="39" width="4" height="4" fill="#a2c9e2"/>
+<rect x="128" y="18" width="4" height="4" fill="#a2c9e2"/>
+<rect x="210" y="38" width="4" height="4" fill="#a2c9e2"/>
+<rect x="274" y="18" width="4" height="4" fill="#a2c9e2"/>
+<rect x="330" y="44" width="4" height="4" fill="#a2c9e2"/>
+<rect x="352" y="86" width="4" height="4" fill="#a2c9e2"/>
+<rect x="40" y="85" width="4" height="4" fill="#a2c9e2"/>
+<path d="M274 34h32v8h8v32h-8v8h-32v-8h-8V42h8z" fill="#e9d5ad"/>
+<path d="M0 160h36v-20h24v-22h24v-26h28v26h24v18h28v-24h26V96h20v-28h24v28h20v22h24v16h32v-22h24v22h24v26h26v16H0z" fill="#354466"/>
+<path d="M0 180h42v-24h30v-18h24v18h20v24h40v-20h24v-20h24v-28h24v28h24v20h28v20h30v-18h26v18h44v64H0z" fill="#47667b"/>
+<rect y="198" width="380" height="46" fill="#284f61"/>
+<path d="M230 206h86v4h-86zm-30 12h138v4H200zm28 12h88v4h-88z" fill="#7dbbab"/>
+<path d="M20 188h62v-8H20zm12-8h38v-8H32zm10-8h18v-8H42z" fill="#8bd0a8"/>
+</g>
+<g font-family="Arial,sans-serif" fill="#a4b8c9" font-size="11"><text x="441" y="87" letter-spacing="1">LAYERS</text>
+<rect x="438" y="109" width="108" height="34" rx="4" fill="#233249"/><rect x="447" y="118" width="16" height="16" rx="2" fill="#e9d5ad"/><text x="470" y="131" font-size="10">Highlights</text>
+<rect x="438" y="154" width="108" height="34" rx="4" fill="#233249"/><rect x="447" y="163" width="16" height="16" rx="2" fill="#8bd0a8"/><text x="470" y="176" font-size="10">Silhouette</text>
+<rect x="438" y="199" width="108" height="34" rx="4" fill="#233249"/><rect x="447" y="208" width="16" height="16" rx="2" fill="#47667b"/><text x="470" y="221" font-size="10">Background</text>
+<rect x="438" y="261" width="108" height="32" rx="4" fill="#88d6bb"/><text x="464" y="281" fill="#183c35" font-weight="700">EDITABLE</text></g></g></svg>
