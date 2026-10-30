@@ -17,13 +17,17 @@ Version: **1.1.0**. Review date: **2026-10-30**. Preparation environment: isolat
 
 The core `SKILL.md` remains **36 lines / 653 whitespace-separated words**, including frontmatter. Setup and drawing references are loaded only when needed. The diagnostic is optional and read-only.
 
-## Not completed
+## Publication update
 
-- **GitHub publication: BLOCKED.** The available GitHub connection exposes read operations, not repository creation/push/About writes. The cloud workspace has no authenticated GitHub CLI. An explicit publish attempt stopped at that prerequisite before creating Git state or remote objects. No repository, commit, tag, release or remote CI success is claimed.
+The public repository was published on 2026-10-30. Its initial GitHub Actions validation completed successfully. The notes below describe the state of the original preparation and the remaining runtime checks; they are not a live status dashboard.
+
+## Preparation limitations and remaining checks
+
+- **GitHub publication during preparation: BLOCKED.** The available GitHub connection exposes read operations, not repository creation/push/About writes. The cloud workspace has no authenticated GitHub CLI. An explicit publish attempt stopped at that prerequisite before creating Git state or remote objects. No repository, commit, tag, release or remote CI success is claimed.
 - **Real Pixelorama/MCP editor round trip: NOT RUN.** The editor/runtime could not be obtained in this environment. Health fixtures do not substitute for a real MCP drawing/export/save/reopen test.
 - **Windows installation and client activation: NOT RUN.** Paths and CLI syntax were checked against official documentation; no actual Codex/Claude Code installation was changed.
 - **Artistic quality and animation playback: NOT ASSESSED.** The README gallery is credited upstream work, not this skill's output.
-- **GitHub Actions: NOT RUN REMOTELY.** The workflow is included, checked structurally, and its underlying Python commands pass in the preparation environment.
+- **GitHub Actions during preparation: NOT RUN REMOTELY.** The workflow is included, checked structurally, and its underlying Python commands pass in the preparation environment.
 - **External gallery rendering/link sweep: NOT RUN.** Gallery references use paths from the reviewed upstream README pinned to a commit. Network availability and GitHub's rendering must be checked after publication.
 
 ## Reproduce the executed checks
